@@ -1,4 +1,8 @@
 # bangunan
+Flowchart
+![tokobangunan](https://github.com/nyomanarinit/bangunan/assets/145880551/b93c6e26-fb82-4c24-a1bd-c313de03ae39)
+
+
 Penjelasan Dan Output
 
 *	Tampilan Awal Program
