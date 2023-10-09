@@ -76,6 +76,7 @@ Gambar 2.1 Tampilan Menu Pembeli
 
 Pengguna diminta memasukkan kode barang yang akan di beli dan juga jumlah barang yang akan dibeli.
 Contoh : Kode barang yang akan dibeli : 001, Jumlah barang yang akan dibeli : 2
+
 ![Cuplikan layar 2023-10-09 115231](https://github.com/nyomanarinit/bangunan/assets/145880551/c89f47e0-3f9b-4af3-ac87-8f9ce3a5495a)
 
 Gambar 2.2 Tampilan Output Dari Menu Pembeli
